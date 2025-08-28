@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Search result Ad-Blocker",
+  "version": "1.0.0",
+  "description": "Removes the ad links in search results while using DuckDuckGo and firefox.",
+  "content_scripts": [
+    {
+      "matches": ["https://duckduckgo.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ]
+}
