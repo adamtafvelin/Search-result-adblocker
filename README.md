@@ -15,4 +15,4 @@ Because I was bored.
 These are often very bloated with additional functionality which I dont want.
 
 ## Why limit to only Firefox and duckduckgo?
-This is what I personally use and if you want support for more search engines, simply edit the manifet.json.
+This is what I personally use and if you want support for more search engines, simply edit the manifest.json.
