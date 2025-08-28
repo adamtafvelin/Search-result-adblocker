@@ -1,6 +1,13 @@
 # Search-result-adblocker
 Extremely simple Firefox adblocker that removes the links which are classified as ads in the search result of Duckduckgo. 
 
+# How to use / install
+1. Clone the repo.
+2. Open about:debugging#/runtime/this-firefox in Firefox. (use the search bar)
+3. Select "Load temporary add-on..."
+4. Select the manifest.json file.
+5. Profit!
+
 ## Why?
 Because I was bored.
 
